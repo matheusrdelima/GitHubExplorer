@@ -32,7 +32,7 @@
 This project was developed at the RocketSeat GoStack Bootcamp with the following technologies:
 
 - [ReactJS](https://reactjs.org)
-- [Typescript](https://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Styled Components](https://styled-components.com/)
 - [React Router DOM](https://reacttraining.com/react-router/web/guides/quick-start)
 - [Polished](https://github.com/styled-components/polished)
